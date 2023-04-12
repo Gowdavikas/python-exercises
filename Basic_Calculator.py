@@ -13,3 +13,5 @@ elif operator == '*':
     print("The multiplied value: ", num1 * num2)
 elif operator == '/':
     print("The Division value: ", num1 / num2)
+else:
+    print("Invalid operator")
