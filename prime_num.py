@@ -7,3 +7,5 @@ if num > 1:
         else:
             print(num, "is a prime number")
         break
+else:
+    print("Number is not valid or not a prime number,please enter positive number")
