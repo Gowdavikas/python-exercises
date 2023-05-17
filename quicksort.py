@@ -21,7 +21,7 @@ arr = [1, 7, 4, 1, 10, 9, -2]
 print("Unsorted Array")
 print(arr)
 
-quickSort(arr, 0, len(arr)-1)
+quick(arr, 0, len(arr)-1)
 
 print('Sorted Array in Ascending Order:')
 print(arr)
